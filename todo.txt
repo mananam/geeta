@@ -26,3 +26,41 @@ U+A8Fx 	꣰ 	꣱ 	ꣲ 	ꣳ 	ꣴ 	ꣵ 	ꣶ 	ꣷ 	꣸ 	꣹ 	꣺ 	ꣻ
 Notes
 
     1.^ As of Unicode version 6.1
+    
+
+Harvard Kyoto
+Vowels
+अ 	आ 	इ 	ई 	उ 	ऊ 	ए 	ऐ 	ओ 	औ
+a 	A 	i 	I 	u 	U 	e 	ai 	o 	au
+
+ॐ ञ्जी
+
+Sonorants
+ऋ 	ॠ 	ऌ 	ॡ
+R 	RR 	lR 	lRR
+
+Anusvāra/Visarga
+अं 	अः
+M 	H
+
+Consonants
+क 	ख 	ग 	घ 	ङ 	Velar
+k 	kh 	g 	gh 	G 	
+
+च 	छ 	ज 	झ 	ञ 	Palatal
+c 	ch 	j 	jh 	J 	
+
+ट 	ठ 	ड 	ढ 	ण 	Retroflex
+T 	Th 	D 	Dh 	N 	
+
+त 	थ 	द 	ध 	न 	Dental
+t 	th 	d 	dh 	n 	
+
+प 	फ 	ब 	भ 	म 	Labial
+p 	ph 	b 	bh 	m 	
+
+य 	र 	ल 	व 		Semi-vowel
+y 	r 	l 	v 		
+
+श 	ष 	स 	ह 		Fricative
+z 	S 	s 	h 		

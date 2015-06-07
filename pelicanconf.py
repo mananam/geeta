@@ -30,10 +30,10 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-ARTICLE_DIR = '/non_existent_dir'
-PAGE_DIR = '/non_existent_dir'
+ARTICLE_PATHS = ["/non_existent_dir"]
+PAGE_PATHS = ["/non_existent_dir"]
 OUTPUT_PATH = '../output/geeta'
-PLUGIN_PATH = "../pelican-prajna"
+PLUGIN_PATHS = ["../pelican-prajna"]
 PLUGINS = ["prajna"]
 #import pudb
 #pudb.set_trace()
