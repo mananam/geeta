@@ -35,5 +35,9 @@ PAGE_PATHS = ["/non_existent_dir"]
 OUTPUT_PATH = '../output/geeta'
 PLUGIN_PATHS = ["../pelican-prajna"]
 PLUGINS = ["prajna"]
+
+# Prajna Settings
+PRAJNA_READER = "md"
+
 #import pudb
 #pudb.set_trace()
